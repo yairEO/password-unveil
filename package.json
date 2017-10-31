@@ -1,0 +1,22 @@
+{
+  "name"        : "@yaireo/password-unveil",
+  "version"     : "1.0.0",
+  "homepage"    : "https://github.com/yairEO/password-unveil",
+  "description" : "Reveal characters in 'password' input fields",
+  "_npmUser"    : {
+    "name"  : "vsync",
+    "email" : "vsync.design@gmail.com"
+  },
+  "author": {
+    "name"  : "Yair Even-Or",
+    "email" : "vsync.design@gmail.com"
+  },
+
+  "repository"  : {
+    "type" : "git",
+    "url"  : "git+https://github.com/yairEO/password-unveil.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yaireo/password-unveil/issues"
+  }
+}
